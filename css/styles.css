@@ -1,7 +1,7 @@
 /* =================================================================== 
- * Flare Main Stylesheet
- * Template Ver. 1.0.0
- * 03-19-2020
+ * Aristos Designs Main Stylesheet
+ * Ver. 1.0.0
+ * 03-195-2024
  * ------------------------------------------------------------------
  *
  * TOC:
@@ -99,6 +99,9 @@
     --font-mono: Consolas, "Andale Mono", Courier, "Courier New", monospace;
 }
 
+.disabled {
+    pointer-events: none;
+}
 
 /* ------------------------------------------------------------------- 
  * ## colors
